@@ -1,27 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>程佩的博客</title>
+  <title>周乐善的博客</title>
   
-  <subtitle>没有银弹</subtitle>
+  <subtitle>禽兽</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-14T13:39:27.056Z</updated>
+  <updated>2019-01-19T13:02:24.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>程佩</name>
+    <name>周乐善</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2021/03/03/hello-world/"/>
+    <id>http://yoursite.com/2021/03/03/hello-world/</id>
+    <published>2021-03-03T08:08:42.630Z</published>
+    <updated>2019-01-19T13:02:24.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;我的第一篇博客&quot;&gt;&lt;a href=&quot;#我的第一篇博客&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>机器学习-支持向量机</title>
     <link href="http://yoursite.com/2019/11/04/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/"/>
     <id>http://yoursite.com/2019/11/04/机器学习-支持向量机/</id>
     <published>2019-11-04T11:28:11.000Z</published>
-    <updated>2019-11-14T13:39:27.056Z</updated>
+    <updated>2019-11-14T13:39:28.000Z</updated>
     
     <summary type="html">
     
@@ -39,7 +61,7 @@
     <link href="http://yoursite.com/2019/10/15/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%8F%82%E6%95%B0%E7%9A%84%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E7%AE%97%E6%B3%95/"/>
     <id>http://yoursite.com/2019/10/15/机器学习-神经网络参数的反向传播算法/</id>
     <published>2019-10-15T02:47:38.000Z</published>
-    <updated>2019-10-31T13:35:36.153Z</updated>
+    <updated>2019-10-31T13:35:36.000Z</updated>
     
     <summary type="html">
     
@@ -57,7 +79,7 @@
     <link href="http://yoursite.com/2019/09/20/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%AD%A6%E4%B9%A0/"/>
     <id>http://yoursite.com/2019/09/20/机器学习-神经网络学习/</id>
     <published>2019-09-20T07:37:32.000Z</published>
-    <updated>2019-09-22T12:23:20.655Z</updated>
+    <updated>2019-09-22T12:23:20.000Z</updated>
     
     <summary type="html">
     
@@ -75,7 +97,7 @@
     <link href="http://yoursite.com/2019/09/11/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E6%AD%A3%E5%88%99%E5%8C%96/"/>
     <id>http://yoursite.com/2019/09/11/机器学习-正则化/</id>
     <published>2019-09-11T12:32:32.000Z</published>
-    <updated>2019-11-05T13:38:08.632Z</updated>
+    <updated>2019-11-05T13:38:08.000Z</updated>
     
     <summary type="html">
     
@@ -93,7 +115,7 @@
     <link href="http://yoursite.com/2019/07/24/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-Logistic%E5%9B%9E%E5%BD%92/"/>
     <id>http://yoursite.com/2019/07/24/机器学习-Logistic回归/</id>
     <published>2019-07-24T01:07:24.000Z</published>
-    <updated>2019-09-11T12:51:46.499Z</updated>
+    <updated>2019-09-11T12:51:46.000Z</updated>
     
     <summary type="html">
     
@@ -111,7 +133,7 @@
     <link href="http://yoursite.com/2019/07/22/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E5%A4%9A%E5%8F%98%E9%87%8F%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/"/>
     <id>http://yoursite.com/2019/07/22/机器学习-多变量线性回归/</id>
     <published>2019-07-22T07:05:20.000Z</published>
-    <updated>2019-09-11T12:51:43.848Z</updated>
+    <updated>2019-09-11T12:51:44.000Z</updated>
     
     <summary type="html">
     
@@ -129,7 +151,7 @@
     <link href="http://yoursite.com/2019/07/15/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E5%8D%95%E5%8F%98%E9%87%8F%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/"/>
     <id>http://yoursite.com/2019/07/15/机器学习-单变量线性回归/</id>
     <published>2019-07-15T05:24:58.000Z</published>
-    <updated>2019-07-16T08:04:41.280Z</updated>
+    <updated>2019-07-16T08:04:42.000Z</updated>
     
     <summary type="html">
     
@@ -147,7 +169,7 @@
     <link href="http://yoursite.com/2019/06/18/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/"/>
     <id>http://yoursite.com/2019/06/18/排序算法/</id>
     <published>2019-06-18T14:21:33.000Z</published>
-    <updated>2019-07-15T05:23:16.134Z</updated>
+    <updated>2019-07-15T05:23:16.000Z</updated>
     
     <summary type="html">
     
@@ -170,7 +192,7 @@
     <link href="http://yoursite.com/2019/05/22/%E7%A6%B9%E5%B7%9E%E5%AE%9E%E8%AE%AD-%E5%AE%A0%E7%89%A9%E5%8C%BB%E9%99%A2-%E5%90%8E%E7%AB%AF/"/>
     <id>http://yoursite.com/2019/05/22/禹州实训-宠物医院-后端/</id>
     <published>2019-05-22T08:06:34.000Z</published>
-    <updated>2019-07-06T03:01:19.053Z</updated>
+    <updated>2019-07-06T03:01:20.000Z</updated>
     
     <summary type="html">
     
@@ -190,7 +212,7 @@
     <link href="http://yoursite.com/2019/04/28/%E4%BD%BF%E7%94%A8docker%E9%83%A8%E7%BD%B2%E9%9D%99%E6%80%81%E7%BD%91%E9%A1%B5/"/>
     <id>http://yoursite.com/2019/04/28/使用docker部署静态网页/</id>
     <published>2019-04-28T07:50:46.000Z</published>
-    <updated>2019-06-12T14:16:36.904Z</updated>
+    <updated>2019-06-12T14:16:36.000Z</updated>
     
     <summary type="html">
     
@@ -202,11 +224,31 @@
   </entry>
   
   <entry>
+    <title>动态规划</title>
+    <link href="http://yoursite.com/2019/03/31/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+    <id>http://yoursite.com/2019/03/31/动态规划/</id>
+    <published>2019-03-31T08:56:25.000Z</published>
+    <updated>2021-03-03T08:19:48.462Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;动态规划&quot;&gt;&lt;a href=&quot;#动态规划&quot; class=&quot;headerlink&quot; title=&quot;动态规划&quot;&gt;&lt;/a&gt;动态规划&lt;/h1&gt;&lt;p&gt;&amp;emsp;&amp;emsp;中间因为各种破事，好久没有写了，趁着这次开学上算法课，把学了好久的&lt;strong&gt;动态规划&lt;/strong&gt;算法总结一下。&lt;br&gt;&amp;emsp;&amp;emsp;说动态规划之前先说一下&lt;strong&gt;贪心算法&lt;/strong&gt;。比如说给你一堆价值为1、2、3、4、5的物品若干（物品可以装&lt;strong&gt;一半或者某一个分数&lt;/strong&gt;），让你取一定价值的物品，使得取得的物品数量最少，正常的思路就是先拿价值为5的，拿完了之后再拿价值为4的，依此类推，直到拿够数量为止，这样拿到的物品总价值也就最大。这种策略就是&lt;strong&gt;贪心&lt;/strong&gt;。&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="数据结构与算法" scheme="http://yoursite.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="算法" scheme="http://yoursite.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Django-rest-framework开发总结-项目搭建</title>
     <link href="http://yoursite.com/2019/02/28/Django-rest-framework%E5%BC%80%E5%8F%91%E6%80%BB%E7%BB%93-%E9%A1%B9%E7%9B%AE%E6%90%AD%E5%BB%BA/"/>
     <id>http://yoursite.com/2019/02/28/Django-rest-framework开发总结-项目搭建/</id>
     <published>2019-02-28T12:08:48.000Z</published>
-    <updated>2019-03-08T12:04:09.587Z</updated>
+    <updated>2019-03-08T12:04:10.000Z</updated>
     
     <summary type="html">
     
@@ -222,7 +264,7 @@
     <link href="http://yoursite.com/2019/02/18/%E5%93%88%E5%B8%8C%E8%A1%A8/"/>
     <id>http://yoursite.com/2019/02/18/哈希表/</id>
     <published>2019-02-18T06:26:30.000Z</published>
-    <updated>2019-03-28T12:57:53.098Z</updated>
+    <updated>2019-03-28T12:57:54.000Z</updated>
     
     <summary type="html">
     
@@ -242,7 +284,7 @@
     <link href="http://yoursite.com/2019/02/05/mongodb%E5%AE%89%E8%A3%85/"/>
     <id>http://yoursite.com/2019/02/05/mongodb安装/</id>
     <published>2019-02-05T12:45:35.000Z</published>
-    <updated>2019-02-07T05:32:14.355Z</updated>
+    <updated>2019-02-07T05:32:14.000Z</updated>
     
     <summary type="html">
     
@@ -265,7 +307,7 @@
     <link href="http://yoursite.com/2019/02/02/%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     <id>http://yoursite.com/2019/02/02/基本数据结构/</id>
     <published>2019-02-02T02:35:35.000Z</published>
-    <updated>2019-04-01T12:28:35.704Z</updated>
+    <updated>2019-04-01T12:28:36.000Z</updated>
     
     <summary type="html">
     
@@ -285,7 +327,7 @@
     <link href="http://yoursite.com/2019/02/01/%E9%80%92%E5%BD%92%E5%88%86%E6%B2%BB/"/>
     <id>http://yoursite.com/2019/02/01/递归分治/</id>
     <published>2019-02-01T04:04:06.000Z</published>
-    <updated>2020-02-20T13:04:23.271Z</updated>
+    <updated>2020-02-20T13:04:24.000Z</updated>
     
     <summary type="html">
     
@@ -305,7 +347,7 @@
     <link href="http://yoursite.com/2019/01/31/%E6%B8%90%E8%BF%9B%E8%AE%B0%E5%8F%B7/"/>
     <id>http://yoursite.com/2019/01/31/渐进记号/</id>
     <published>2019-01-31T03:59:36.000Z</published>
-    <updated>2019-02-01T03:53:31.633Z</updated>
+    <updated>2019-02-01T03:53:32.000Z</updated>
     
     <summary type="html">
     
@@ -316,9 +358,9 @@
       <category term="数据结构与算法" scheme="http://yoursite.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="数据结构" scheme="http://yoursite.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    
       <category term="算法" scheme="http://yoursite.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="数据结构" scheme="http://yoursite.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
   </entry>
   
@@ -327,7 +369,7 @@
     <link href="http://yoursite.com/2019/01/24/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90/"/>
     <id>http://yoursite.com/2019/01/24/算法分析/</id>
     <published>2019-01-24T03:28:51.000Z</published>
-    <updated>2019-02-01T03:02:11.430Z</updated>
+    <updated>2019-02-01T03:02:12.000Z</updated>
     
     <summary type="html">
     
@@ -339,9 +381,9 @@
       <category term="数据结构与算法" scheme="http://yoursite.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="数据结构" scheme="http://yoursite.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    
       <category term="算法" scheme="http://yoursite.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="数据结构" scheme="http://yoursite.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
   </entry>
   
@@ -350,7 +392,7 @@
     <link href="http://yoursite.com/2019/01/22/SpringBoot-%E4%BD%BF%E7%94%A8QueryDSL%E6%9F%A5%E8%AF%A2%E6%A1%86%E6%9E%B6/"/>
     <id>http://yoursite.com/2019/01/22/SpringBoot-使用QueryDSL查询框架/</id>
     <published>2019-01-22T05:38:06.000Z</published>
-    <updated>2019-01-24T10:21:37.326Z</updated>
+    <updated>2019-01-24T10:21:38.000Z</updated>
     
     <summary type="html">
     
@@ -369,51 +411,6 @@
       <category term="SpringDataJPA" scheme="http://yoursite.com/tags/SpringDataJPA/"/>
     
       <category term="QueryDSL" scheme="http://yoursite.com/tags/QueryDSL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SpringBoot-整合SpringDataJPA</title>
-    <link href="http://yoursite.com/2019/01/21/SpringBoot-%E6%95%B4%E5%90%88SpringDataJPA/"/>
-    <id>http://yoursite.com/2019/01/21/SpringBoot-整合SpringDataJPA/</id>
-    <published>2019-01-21T02:29:23.000Z</published>
-    <updated>2019-05-21T00:58:08.017Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;SpringBoot-整合SpringDataJPA&quot;&gt;&lt;a href=&quot;#SpringBoot-整合SpringDataJPA&quot; class=&quot;headerlink&quot; title=&quot;SpringBoot-整合SpringDataJPA&quot;&gt;&lt;/a&gt;SpringBoot-整合SpringDataJPA&lt;/h1&gt;&lt;h3 id=&quot;1-简述&quot;&gt;&lt;a href=&quot;#1-简述&quot; class=&quot;headerlink&quot; title=&quot;1.简述&quot;&gt;&lt;/a&gt;1.简述&lt;/h3&gt;&lt;p&gt;&amp;emsp;&amp;emsp;SpringDataJPA是Spring Data的一个子项目，默认底层是Hibernate，使用基于JPA的Repository,极大的减少对数据库访问的代码量，仅仅使用内部接口就可以完成简单的crud操作。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="SpringBoot" scheme="http://yoursite.com/categories/SpringBoot/"/>
-    
-    
-      <category term="SpringBoot" scheme="http://yoursite.com/tags/SpringBoot/"/>
-    
-      <category term="SpringDataJPA" scheme="http://yoursite.com/tags/SpringDataJPA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SpringBoot-快速搭建</title>
-    <link href="http://yoursite.com/2019/01/19/SpringBoot-%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA/"/>
-    <id>http://yoursite.com/2019/01/19/SpringBoot-快速搭建/</id>
-    <published>2019-01-19T05:40:18.000Z</published>
-    <updated>2019-05-21T00:54:35.248Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;SpringBoot-快速搭建&quot;&gt;&lt;a href=&quot;#SpringBoot-快速搭建&quot; class=&quot;headerlink&quot; title=&quot;SpringBoot-快速搭建&quot;&gt;&lt;/a&gt;SpringBoot-快速搭建&lt;/h1&gt;&lt;h3 id=&quot;1-SpringBoot简述&quot;&gt;&lt;a href=&quot;#1-SpringBoot简述&quot; class=&quot;headerlink&quot; title=&quot;1.SpringBoot简述&quot;&gt;&lt;/a&gt;1.SpringBoot简述&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;Spring Boot makes it easy to create stand-alone production-grade Spring based Applications that you can “just run”.&lt;br&gt;We take an opinionated view of the Spring platform and third-party libraries so you can get started with minimum fuss. Most Spring Boot applications need very little Spring configuration.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&amp;emsp;&amp;emsp;摘自官网,大致意思是创建独立的、快速的、生产级的基于Spring的应用，对Spring和第三方库进行整合，轻松上手，只需要很少的配置就可以使用。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="SpringBoot" scheme="http://yoursite.com/categories/SpringBoot/"/>
-    
-    
-      <category term="SpringBoot" scheme="http://yoursite.com/tags/SpringBoot/"/>
     
   </entry>
   
